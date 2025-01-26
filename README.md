@@ -2,7 +2,7 @@
 A movie website with HTML, CSS, and Vanilla JavaScript</br>
 
 ## Take a glance:
-https://saumya-07.github.io/365-Entertainment/
+https://riya-choudhary.github.io/movieSearch/
 
 ## Features: 
 - It has smooth and simple looking UI</br>
